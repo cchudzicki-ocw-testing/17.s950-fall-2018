@@ -2,7 +2,7 @@
 content_type: resource
 description: A graph illustrating the number of papers on "emotions(s)/affect/mood
   and decision making" from 1970 to 2012.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-s950-emotions-and-politics-fall-2018/fe058c8acefaacf7f7b452fb118919e8_17.S950%20Figure%201.JPG
+file: /media/courses/17-s950-emotions-and-politics-fall-2018/fe058c8acefaacf7f7b452fb118919e8_17.S950%20Figure%201.JPG
 file_type: image/jpeg
 image_metadata:
   caption: "Lerner, Jennifer S., Ye Li, Piercarlo Valdesolo, et al. \"Emotion and\
@@ -14,10 +14,13 @@ image_metadata:
   image-alt: A graph illustrating the number of papers on "emotions(s)/affect/mood
     and decision making" from 1970 to 2012.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus and Calendar
 parent_type: CourseSection
+parent_uid: 27ea68a2-b766-b748-95ea-ea9a4a0d4f67
 resourcetype: Image
 title: 17.S950 Figure 1.JPG
 uid: fe058c8a-cefa-acf7-f7b4-52fb118919e8
 ---
+A graph illustrating the number of papers on "emotions(s)/affect/mood and decision making" from 1970 to 2012.
